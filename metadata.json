@@ -1,0 +1,70 @@
+{
+  "siteId": "small-equipment-jump-rope-kettlebell-yoga-ball",
+  "generatedAt": "2026-06-05T16:48:41.604571",
+  "categories": [
+    "beginner-small-equipment-jump-rope-kettlebell-yoga-ball",
+    "advanced-small-equipment-jump-rope-kettlebell-yoga-ball",
+    "tips-small-equipment-jump-rope-kettlebell-yoga-ball",
+    "history-small-equipment-jump-rope-kettlebell-yoga-ball",
+    "trending-small-equipment-jump-rope-kettlebell-yoga-ball",
+    "tutorials-small-equipment-jump-rope-kettlebell-yoga-ball"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-small-equipment-jump-rope-kettlebell-yoga-ball",
+      "category_name": "Beginner Small Equipment Jump Rope Kettlebell Yoga Ball"
+    },
+    {
+      "category_slug": "advanced-small-equipment-jump-rope-kettlebell-yoga-ball",
+      "category_name": "Advanced Small Equipment Jump Rope Kettlebell Yoga Ball"
+    },
+    {
+      "category_slug": "tips-small-equipment-jump-rope-kettlebell-yoga-ball",
+      "category_name": "Small Equipment Jump Rope Kettlebell Yoga Ball Tips"
+    },
+    {
+      "category_slug": "history-small-equipment-jump-rope-kettlebell-yoga-ball",
+      "category_name": "Small Equipment Jump Rope Kettlebell Yoga Ball History"
+    },
+    {
+      "category_slug": "trending-small-equipment-jump-rope-kettlebell-yoga-ball",
+      "category_name": "Trending Small Equipment Jump Rope Kettlebell Yoga Ball"
+    },
+    {
+      "category_slug": "tutorials-small-equipment-jump-rope-kettlebell-yoga-ball",
+      "category_name": "Small Equipment Jump Rope Kettlebell Yoga Ball Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "small-equipment-jump-rope-kettlebell-yoga-ball",
+    "color_scheme": {
+      "name": "Sunset Rose",
+      "primary": "#be123c",
+      "secondary": "#fb7185",
+      "accent": "#fda4af",
+      "background": "#fff1f2",
+      "text": "#881337",
+      "light": "#ffe4e6"
+    },
+    "font": {
+      "name": "Poppins",
+      "family": "'Poppins', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');"
+    },
+    "layout": "centered-wide",
+    "border_radius": "4px",
+    "box_shadow": "0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04)",
+    "article_card_style": "masonry",
+    "header_style": "minimal",
+    "footer_style": "standard",
+    "modules": [
+      "category-highlights",
+      "trending-articles",
+      "stats-widget",
+      "featured-section"
+    ],
+    "site_title": "Small Equipment Jump Rope Kettlebell Yoga Ball Central",
+    "articles_per_row": 2
+  }
+}
